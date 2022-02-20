@@ -1,0 +1,8 @@
+body {
+  font: 400 15px Lato, sans-serif;
+  line-height: 1.8;
+  color: black;
+}
+.container-fluid {
+  padding: 60px 50px;
+}
